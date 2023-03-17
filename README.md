@@ -1,6 +1,6 @@
-# influxdb grafana stack for esp32
+# influxdb stack for esp32
 
-in this repository you can find a docker-compose file to run a grafana and influxdb stack for esp32.
+in this repository you can find a docker-compose file to run an influxdb stack for esp32.
 
 ## usage
 
@@ -13,3 +13,5 @@ to run the project use:
     docker-compose up 
 
 # BrickHumidity
+
+BrickHumidity is a project to measure the humidity of a brick. The project is based on an esp32 and a BME680 sensor. The data is send to an influxdb database.
