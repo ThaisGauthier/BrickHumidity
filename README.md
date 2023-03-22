@@ -15,3 +15,7 @@ to run the project use:
 # BrickHumidity
 
 BrickHumidity is a project to measure the humidity of a brick. The project is based on an esp32 and a BME680 sensor. The data is send to an influxdb database.
+
+# Influx db's graphs
+
+![Influxdb](Influxdb.png) 
