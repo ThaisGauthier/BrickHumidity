@@ -1,8 +1,8 @@
-# influxdb stack for esp32
+# Influxdb stack for esp32
 
 in this repository you can find a docker-compose file to run an influxdb stack for esp32.
 
-## usage
+## Usage
 
 to build the project use: 
 
